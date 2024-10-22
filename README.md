@@ -1,1 +1,1 @@
-# Flight-FInder-Navigating-your-flight-booking-options
+# Flight-Finder-Navigating-your-flight-booking-options
